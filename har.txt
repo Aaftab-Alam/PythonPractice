@@ -1,0 +1,197 @@
+2/13/21, 10:09 AM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+2/13/21, 10:09 AM - Harsh SecA: Ye kaise thek hoga
+2/13/21, 10:11 AM - ~aaftab: message(index) ki jagah message[index] likh ke dekho ek baar
+2/13/21, 10:11 AM - ~aaftab: Square brackets
+2/13/21, 10:12 AM - Harsh SecA: Hoo gya bhai
+2/13/21, 10:12 AM - ~aaftab: 👍🏻👍🏻👍🏻
+2/13/21, 10:12 AM - Harsh SecA: 👌👌
+2/13/21, 10:12 AM - Harsh SecA: Ye kyu hua ese
+2/13/21, 10:12 AM - Harsh SecA: ??
+2/13/21, 10:12 AM - ~aaftab: Indexing me square brackets use krte hai hmesha
+2/13/21, 10:12 AM - ~aaftab: Parentheses ni use krte
+2/13/21, 10:13 AM - ~aaftab: name="Harsh"
+
+Agr isme tmhe r print krwana hai to
+
+print(name[2])
+
+ye likhoge
+2/13/21, 10:13 AM - ~aaftab: Jb bhi index likhoge kisi cheez ka to hmesha square brackets use krna
+2/13/21, 10:14 AM - Harsh SecA: Ohh okk
+2/13/21, 10:14 AM - Harsh SecA: Sukriya brother 🤜
+2/13/21, 10:14 AM - ~aaftab: Koi ni bhai❤️❤️
+2/17/21, 2:33 PM - Harsh SecA: Attandence bol de apni
+2/17/21, 2:39 PM - ~aaftab: Khana kha ra tha be🤣
+2/17/21, 2:40 PM - Harsh SecA: Achaa😂😂
+2/19/21, 10:58 AM - Harsh SecA: Btaiyo bhai
+2/19/21, 10:59 AM - ~aaftab: Ye kya kiye ho bhai
+2/19/21, 11:00 AM - Harsh SecA: 😅
+2/19/21, 11:00 AM - Harsh SecA: Kha se glt h bataiyo
+2/19/21, 11:01 AM - ~aaftab: 2%!=0 ku kiye ho?
+2/19/21, 11:01 AM - Harsh SecA: Bhai voh even number nhi aana chahiye naa
+2/19/21, 11:01 AM - ~aaftab: i%2!=0 hona chahiye na
+2/19/21, 11:01 AM - Harsh SecA: Hein
+2/19/21, 11:01 AM - Harsh SecA: Rukiyo
+2/19/21, 11:02 AM - ~aaftab: Krke dekho
+2/19/21, 11:02 AM - Harsh SecA: Ho gya bhai
+2/19/21, 11:02 AM - Harsh SecA: 😭😭
+2/19/21, 11:02 AM - ~aaftab: 👍🏻👍🏻👍🏻👍🏻
+2/19/21, 11:02 AM - Harsh SecA: Kya hi krta Hu m
+2/19/21, 11:02 AM - Harsh SecA: 🤦
+2/19/21, 11:02 AM - ~aaftab: Are hota rehta hai chota mota glti😂
+2/19/21, 11:02 AM - Harsh SecA: Bhai farak bataiyo dono m
+2/19/21, 11:02 AM - Harsh SecA: .
+2/19/21, 11:03 AM - Harsh SecA: .
+2/19/21, 11:03 AM - ~aaftab: Bhai iska to koi mtlb hi ni hota , python apne aap syntax error dega aise likhoge to
+2/19/21, 11:03 AM - ~aaftab: Aur ye wala isliye aise likhenge , kuki hm i ki value check kr rhe na ki 2 se divisible hai ya ni
+2/19/21, 11:04 AM - ~aaftab: Means i ko 2 se divide kiya aur uska remainder 0 ke equal ni aaya to uski value append ho jayegi new_len me
+2/19/21, 11:04 AM - ~aaftab: Aur agr 2 se divide krne me remainder 0 aa gaya to wo pass kr jayega , value append ni hogi
+2/19/21, 11:05 AM - Harsh SecA: Achaaa
+2/19/21, 11:05 AM - Harsh SecA: Mtlb usse hamesha ese hii hota h yee
+2/19/21, 11:05 AM - Harsh SecA: Syntax
+2/19/21, 11:05 AM - Harsh SecA: Heina
+2/19/21, 11:05 AM - ~aaftab: Haan
+2/19/21, 11:05 AM - Harsh SecA: Aree Bhai sukriya yrr❤️❤️❤️❤️💪
+2/19/21, 11:06 AM - ~aaftab: i ko divide krke hi to dekhoge na
+2/19/21, 11:06 AM - ~aaftab: Usko usi syntax me likha jata hai hmesha
+2/19/21, 11:06 AM - Harsh SecA: Haa
+2/19/21, 11:06 AM - Harsh SecA: Bhai ab smjh gya m
+2/19/21, 11:06 AM - ~aaftab: Hmm bhai👍🏻
+2/20/21, 10:06 AM - ~aaftab: Kya print krwana chah rhe ho?
+2/20/21, 10:08 AM - Harsh SecA: Bhai 1st banna Ch rha tah
+2/20/21, 10:09 AM - ~aaftab: Jo mam ne bheja hai uska first question?
+2/20/21, 10:09 AM - Harsh SecA: Haaa
+2/20/21, 10:10 AM - Harsh SecA: Aur Yee toh mam ne hii banvaya tha yr
+2/20/21, 10:10 AM - Harsh SecA: M bss execute krva rha tha
+2/20/21, 10:11 AM - ~aaftab: Isme print(list(enumerate (list)) ni hoga
+
+Agr tmhe index print krwana hai to print(list[index]) likho
+
+Aur i ki value print krni hai to sidha print(i) likh do
+2/20/21, 10:12 AM - ~aaftab: print(list(enumerate (list)),  ye syntax hi glt ho ja ra....
+2/20/21, 10:13 AM - Harsh SecA: Abe ye issne aise krva tha naa
+2/20/21, 10:13 AM - Harsh SecA: 😂😂🤦
+2/20/21, 10:13 AM - ~aaftab: Are to print statement dekho kaise likha hai mam ne
+2/20/21, 10:13 AM - ~aaftab: Print statement ke andar ya to i ki value do ya to index ki
+2/20/21, 10:14 AM - ~aaftab: Print statement ke andar tm enumerate(list) ni daal skte
+2/20/21, 10:14 AM - Harsh SecA: Achaaa
+2/20/21, 10:14 AM - Harsh SecA: M krke dhekta hu
+2/20/21, 10:14 AM - ~aaftab: Accha ek second
+2/20/21, 10:14 AM - ~aaftab: Maine niche wala code ni dekha
+2/20/21, 10:15 AM - ~aaftab: Suno
+2/20/21, 10:15 AM - ~aaftab: Tmne jo list ka name diya hai
+2/20/21, 10:15 AM - ~aaftab: Usko change kro ek baar
+2/20/21, 10:15 AM - ~aaftab: List1 rkh do ya kch aur
+2/20/21, 10:16 AM - ~aaftab: Jahan jahan arrow lagaya hu whi pe rkhna khali
+2/20/21, 10:16 AM - Harsh SecA: Haa
+2/20/21, 10:16 AM - Harsh SecA: Hoo gya
+2/20/21, 10:16 AM - ~aaftab: Hmm bhai
+2/20/21, 10:17 AM - Harsh SecA: Aisa aa rha h pr
+2/20/21, 10:17 AM - ~aaftab: print wali jo line hai usko for loop ke bahar rkh do
+2/20/21, 10:17 AM - ~aaftab: Shi jo jayega
+2/20/21, 10:17 AM - ~aaftab: *ho
+2/20/21, 10:18 AM - Harsh SecA: Phir syntax errors nhi dega kya
+2/20/21, 10:19 AM - ~aaftab: Agr syntax error de to pass statement laga do for loop ke andar
+2/20/21, 10:19 AM - Harsh SecA: Areee bhaai❤️❤️❤️🤜
+2/20/21, 10:19 AM - ~aaftab: Ho gaya?
+2/20/21, 10:20 AM - Harsh SecA: Haa
+2/20/21, 10:20 AM - ~aaftab: 👍🏻👍🏻👍🏻👍🏻
+2/20/21, 10:20 AM - Harsh SecA: Thank you bro
+2/20/21, 10:20 AM - ~aaftab: Are koi ni bro❤️❤️
+2/20/21, 8:23 PM - Harsh SecA: Bhai check kriyo yrr isse
+2/20/21, 8:34 PM - ~aaftab: Kya error de ra?
+2/20/21, 8:36 PM - ~aaftab: Indentation error de ra hoga shayad
+2/20/21, 8:44 PM - Harsh SecA: Haa
+2/20/21, 8:47 PM - Harsh SecA: Bhai fuck hoo gya
+2/20/21, 8:47 PM - Harsh SecA: 😂
+2/20/21, 8:59 PM - Harsh SecA: Bhai ese Kiya toh thek hoo gya
+2/20/21, 8:59 PM - Harsh SecA: While lgake
+2/20/21, 9:00 PM - ~aaftab: Ruk ja bhai dekh ra abhi
+2/20/21, 9:03 PM - ~aaftab: Output ni shi aa ra kya isme?
+2/20/21, 9:09 PM - Harsh SecA: Aa rha h
+2/20/21, 9:09 PM - Harsh SecA: Prr ye product wale m yrr
+2/20/21, 9:09 PM - Harsh SecA: _5
+2/20/21, 9:09 PM - Harsh SecA: Aisa Kuch AA rha h
+2/20/21, 9:18 PM - ~aaftab: Logic me kch error hoga bhai fir
+2/20/21, 9:21 PM - Harsh SecA: Acha😅
+2/20/21, 9:26 PM - ~aaftab: Bhai
+2/20/21, 9:27 PM - ~aaftab: Bs prd=prd*(i%10) kr do
+2/20/21, 9:27 PM - ~aaftab: Shi ho jayega
+2/20/21, 9:27 PM - ~aaftab: i%10 ko bracket me rkh do👍🏻
+2/20/21, 9:28 PM - Harsh SecA: Haa 😁
+2/20/21, 9:28 PM - Harsh SecA: Thank u
+2/20/21, 9:28 PM - Harsh SecA: Bro
+2/20/21, 9:28 PM - ~aaftab: Hm bro👍🏻
+3/20/21, 1:26 PM - ~aaftab: n= int(input("Num"))
+
+#Question1
+for i in range(1,n+1):
+	for j in range(1,i+1):
+		print("*",end=" ")
+	print("")
+	
+print("\n[Program finished]\n")
+
+#Question2
+for i in range(1,n+1):
+	for j in range(i,0,-1):
+		print(j,end=" ")
+	for k in range(2,i+1):
+		print(k,end=" ")
+	print("")
+		
+print("\n[Program finished]\n")
+
+#Question4
+for i in range(1,n+1):
+	for j in range(n,i,-1):
+		print(" ",end=" ")
+	for k in range(1,i+1):
+		print(k,end=" ")
+	for l in range(i-1,0,-1):
+		print(l,end=" ")
+	print("")
+
+print("\n[Program finished]\n")
+
+#DiamondPattern
+for i in range(1,n+1):
+	for j in range(n,i,-1):
+		print(" ",end="")
+	for k in range(1,i+1):
+		print("*",end="")
+	for l in range(1,i):
+		print("*",end="")
+	print("")
+for i in range(1,n):
+	for j in range(1,i+1):
+		print(" ",end="")
+	for k in range(n,i,-1):
+		print("*",end="")
+	for l in range(n,i+1,-1):
+		print("*",end="")
+	print("")
+	
+print("\n[Program finished]\n")
+
+#Question3
+for i in range(1,n+1):
+	for j in range(1,n+1):
+		if i==1 or j==1 or i==n or j==n:
+			print("*",end=" ")
+		else:
+			print(" ",end=" ")
+	print("")
+	
+print("\n[Program finished]\n")
+
+#Question5
+for i in range(1,n+1):
+	for j in range(1,i+1):
+		print(i,end=" ")
+	print(" ")
+3/29/21, 8:29 AM - Harsh SecA: Bhai koo janamdinn Mubarak 🧡🧡🎊🎊
+3/29/21, 8:44 AM - ~aaftab: Bohot bohot shukriya bhai😍😍
+5/14/21, 9:33 AM - Harsh SecA: Eid Mubarak bhai🎉🎊🎉🎆
+5/14/21, 12:26 PM - ~aaftab: Are shukriya bro 🥳🥳
+5/14/21, 12:26 PM - ~aaftab: Nd same to you🥳

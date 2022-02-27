@@ -1,0 +1,50 @@
+{%extends "login_page2.html"%}
+{%block body%}
+
+        <header class="masthead" >
+            <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+                <div class="d-flex justify-content-center">
+                    <div >
+                        <h1 class="mx-auto my-0 text-uppercase">Admin Page</h1>   
+                        <form class="text-center" style="margin-top:20px;" action="/signup" method="post"> 
+                            <h2 style=" background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+                            -webkit-text-fill-color: transparent;
+                            -webkit-background-clip: text;
+                            background-clip: text; font-size: 30px;" class="mx-auto my-0 text-uppercase" >Please sign Up </h2>
+
+                            <div class="form-floating" style="margin-top:30px; margin-left:200px; margin-right: 200px;">
+                            <input type="text" class="form-control" id="floatingInput" placeholder="name" name="name">
+                            <label for="floatingInput">Name</label>
+                            </div>
+                            {% if popup=="userexist" %}
+                            <div class="small text-white-50">Email already exist</div>
+                            {% endif %}
+                            <div class="form-floating" style="margin-top:2px; margin-left:200px; margin-right: 200px; ">
+                            <input type="email" class="form-control" id="floatingInpu" placeholder="name@example.com" name="uname">
+                            <label for="floatingPassword">Email Address</label>
+                            </div>
+
+                            {% if popup=="wrongpass" %}
+                            <div class="small text-white-50">Passowrd and confirmation password does not match</div>
+                            {% endif %}
+                            <div class="form-floating" style="margin-top:2px; margin-left:200px; margin-right: 200px; ">
+                            <input type="password" class="form-control" id="floatingPassword" placeholder="Password" name="pass">
+                            <label for="floatingPassword">Password</label>
+                            </div>
+
+                            <div class="form-floating" style="margin-top:2px; margin-left:200px; margin-right: 200px; ">
+                            <input type="password" class="form-control" id="floatingPassword" placeholder="Confirm Password" name="conpass">
+                            <label for="floatingPassword">Confirm Password</label>
+                            </div>
+                        
+                            <div class="checkbox mb-3">
+                            <!--<label>
+                                <input type="checkbox" value="remember-me"> Remember me
+                            </label>-->
+                            </div>
+                            <button class="btn btn-primary col-auto" type="submit">Sign Up</button>
+                            <p class="mt-5 mb-3 text-muted">© 2017–2021</p>
+                        </form> 
+                    </div>  
+                    </main>
+               {%endblock%}
